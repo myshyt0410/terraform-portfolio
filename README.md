@@ -1,7 +1,7 @@
 # Terraform AWS Infrastructure Portfolio
 
 ## 構成図
-（先ほどの構成図の画像をここに貼る）
+![構成図](architecture.png)
 
 ## 概要
 AWSのインフラをTerraformでコード化したポートフォリオです。
